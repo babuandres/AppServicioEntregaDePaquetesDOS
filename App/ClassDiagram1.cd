@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="App.Datos.BillsRepositories" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAAAACAAABAAAAAAAAAAAEQAAABAAA=</HashCode>
+      <FileName>Datos\BillsRepositories.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="App.Modelo.Bills" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAECAIABAAAAAAAEAAgAAAAAAAAAAIABAAAAAQAAAgA=</HashCode>
+      <FileName>Modelo\Bills.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="App.Modelo.OrdinaryPackage">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEgAAACAAAAAAAAIAAQAAAAEAAAAA=</HashCode>
+      <FileName>Modelo\OrdinaryPackage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="App.Modelo.OvernightPackage" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAEgAAACAAAAAAAAIAAAAAAEAAAAAA=</HashCode>
+      <FileName>Modelo\OvernightPackage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="App.Modelo.Person" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAMgAAACgQAAAIEAIAGAAAABAAAAgA=</HashCode>
+      <FileName>Modelo\Person.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="App.Modelo.TwoDayPackage" Collapsed="true">
+    <Position X="0.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEgAAACAAAAAAAAIAAEAAAABAAAAA=</HashCode>
+      <FileName>Modelo\TwoDayPackage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="App.Web.Default" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAAAAAAAAAAIAAAAAAAAAAAAAoAAAA=</HashCode>
+      <FileName>Web\Default.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
